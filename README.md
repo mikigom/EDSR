@@ -1,6 +1,6 @@
-# TF_SRDense
+# EDSR
 
-Super-resolution based on SRDenseNet
+Super-resolution based on EDSR
 
 ### Test Enviroment
 ```angular2html
